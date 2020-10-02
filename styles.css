@@ -1,0 +1,82 @@
+body>div{
+    width: 300px;
+    height:200px;
+    margin: 15px auto;
+    border: 3px solid rgb(66, 65, 65);
+}
+body>div>*{
+    padding: 0;
+    margin:0;
+}
+#bandera-argentina>.franja-celeste{
+    height: 70px;
+}
+#bandera-argentina>.franja-blanca{
+    height: 60px;
+}
+#bandera-indonesia>.franja-roja{
+    height: 100px;
+}
+#bandera-indonesia>.franja-blanca{
+    height: 100px;
+}
+#bandera-alemania>.franja-negra{
+    height: 67px;
+}
+#bandera-alemania>.franja-roja{
+    height: 66px;
+}
+#bandera-alemania>.franja-amarilla{
+    height: 67px;
+}
+#bandera-rusia>.franja-blanca{
+    height: 67px;
+}
+#bandera-rusia>.franja-azul{
+    height: 66px;
+}
+#bandera-rusia>.franja-roja{
+    height: 67px;
+}
+#bandera-bulgaria>.franja-blanca{
+    height: 67px;
+}
+#bandera-bulgaria>.franja-verde-opaco{
+    height: 66px;
+}
+#bandera-bulgaria>.franja-roja-opaca{
+    height: 67px
+}
+#bandera-colombia>.franja-amarilla{
+    height: 100px;
+}
+#bandera-colombia>.franja-azul{
+    height: 50px;
+}
+#bandera-colombia>.franja-roja{
+    height: 50px;
+}
+.franja-roja{
+    background-color: red;
+}
+.franja-azul{
+    background-color: blue;
+}
+.franca-blanca{
+    background-color: white;
+}
+.franja-celeste{
+    background-color: lightblue;
+}
+.franja-amarilla{
+    background-color: yellow;
+}
+.franja-negra{
+    background-color: black;
+}
+.franja-roja-opaca{
+    background-color: rgb(165, 15, 15);
+}
+.franja-verde-opaco{
+    background-color: rgb(26, 117, 67);
+}
